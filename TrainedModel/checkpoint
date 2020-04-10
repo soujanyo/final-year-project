@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\85265\\Desktop\\Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network-master\\TrainedModel\\GestureRecogModel"
+all_model_checkpoint_paths: "C:\\Users\\85265\\Desktop\\Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network-master\\TrainedModel\\GestureRecogModel"
